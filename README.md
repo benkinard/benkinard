@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @BKinard64
-- 👀 I’m interested in programming, data science, sports, and the outdoors!
-- 🌱 I’m currently learning data science methods and advanced programming concepts
-- 💞️ I’m looking to collaborate on any data science or software development projects
-- 📫 How to reach me: benjaminjameskinard@gmail.com
+## Hi, I'm Ben Kinard 👋
 
-<!---
-BKinard64/BKinard64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I currently work as a Data Analytics Consultant at [Fastrics LLC](https://github.com/Fastrics). I specialize in writing software to automate business processes. 
+I enjoy coding and learning about machine learning applications. My other interests include...
+
+- Playing tennis 🎾
+- Wakesurfing 🛥️🏄
+- Going to the gym 🏋️
+- Reading 📖
+
+## Let's Connect 🔗
+- benjaminjameskinard@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/benkinard/)
