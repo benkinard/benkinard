@@ -1,6 +1,6 @@
 ## Hi, I'm Ben Kinard 👋
 
-I currently work as a Data Analytics Consultant at [Fastrics LLC](https://github.com/Fastrics), where I specialize in writing software to automate business processes. 
+I currently work as a Software Engineer at [Fastrics LLC](https://github.com/Fastrics), where I specialize in writing software to automate business processes. 
 I enjoy coding and learning about machine learning applications. My other interests include...
 
 - Playing tennis 🎾
